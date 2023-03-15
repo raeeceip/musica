@@ -8,7 +8,7 @@ git clone https://github.com/raeeceip/musica
 ```
 >  And run
 ```
-npm install projects.json
+npm install package.json
 ```
 > Then,
 ```
